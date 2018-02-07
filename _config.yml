@@ -1,5 +1,5 @@
 # Profile information
-name: Solar
+name: Hotacool
 title: Solar - Free Jekyll Theme
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -13,10 +13,14 @@ url: "artemsheludko.pw" # the base hostname & protocol for your site, e.g. http:
 facebook: #Add your Facebook
 twitter: #Add your Twitter
 google-plus: #Add your Google+
-github: #Add your Github
+github: Hotacool
+weibo: u/6187744553/
+toEmail: mailto:shisosen0@163.com
 
 # Contact form
-email: #your-email@domain.com
+email: shisosen0@163.com
+# github project address
+gitAddr: https://github.com/Hotacool/Solar
 
 # Comments
 discus-identifier: # Add your Disqus identifier
