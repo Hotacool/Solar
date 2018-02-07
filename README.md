@@ -1,23 +1,26 @@
-## 说明
+Fresh is a free blog template for Jekyll
+=============================
 
-此博客模板 Fork 自仓库：[cnfeat/blog.io: 简单直接可用博客模板](https://github.com/cnfeat/blog.io)
+![](assets/img/fresh.jpg)
 
-配套说用说明：[如何搭建一个独立博客——简明 GitHub Pages与 jekyll 教程 - 读立写生](http://www.cnfeat.com/blog/2014/05/10/how-to-build-a-blog/)
+# Demo
 
-## 博客模板修订清单
+![GIF](assets/img/fresh.gif)
 
-文档内有详细注释，可按注释逐个修订
+View this jekyll theme in action [here](http://artemsheludko.pw/fresh/)
 
-* 博客名字、作者信息、浏览器小图标等：_config.yml 
-* 个人介绍页面：about.md
-* 代表作页面：milestone.md
-* 文章模板：blog.io/_posts/2015-03-02-how-to-write.md 
-* 
+Integrations
+  - [Google Fonts](https://fonts.google.com/)
+  - [Disqus](https://disqus.com/)
+  - [Font Awesome](http://fontawesome.io/)
+  - Social media links
 
-## 模板作者
+# How to Use
 
-陈素封，博客：独立写生：[cnfeat.com](cnfeat.com)
+  For those unfamiliar with how Jekyll works, check out [jekyllrb.com](https://jekyllrb.com/) for all the details,
+  or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/),
+  and [creating pages](https://jekyllrb.com/docs/pages/).
 
-联系方式：cnfeat@gmail.com
+## License
 
-
+GNU General Public License v3.0

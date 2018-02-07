@@ -1,20 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
-
 {% include head.html %}
+<body>
 
+  {% include sidebar.html %}
 
+  <main role="main">
+    <div class="content">
+      {{content}}
+    </div>
+  </main>
 
-
-
-<body ontouchstart="">
-
-    {% include nav.html %}
-
-    {{ content }}
-
-    {% include footer.html %}
-
+{% include analytics.html %}
 </body>
-
 </html>
