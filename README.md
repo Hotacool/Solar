@@ -1,13 +1,13 @@
-Fresh is a free blog template for Jekyll
+Solar is a free blog template for Jekyll
 =============================
 
-![](assets/img/fresh.jpg)
+![](assets/img/Solar.jpg)
 
 # Demo
 
-![GIF](assets/img/fresh.gif)
+![GIF](assets/img/Solar.gif)
 
-View this jekyll theme in action [here](http://artemsheludko.pw/fresh/)
+View this jekyll theme in action [here](http://artemsheludko.pw/Solar/)
 
 Integrations
   - [Google Fonts](https://fonts.google.com/)
