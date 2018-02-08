@@ -1,16 +1,20 @@
 <!DOCTYPE html>
-<html lang="en">
-{% include head.html %}
-<body>
+<html>
 
-  {% include sidebar.html %}
+  {% include head.html %}
 
-  <main role="main">
-    <div class="content">
-      {{content}}
+  <body class="{% if site.theme-dark %} dark {% else %} light {% endif %} ">
+
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
     </div>
-  </main>
 
-{% include analytics.html %}
-</body>
+    {% include footer.html %}
+
+  </body>
+
 </html>

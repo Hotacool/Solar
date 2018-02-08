@@ -1,40 +1,23 @@
-# Profile information
-name: Hotacool
-title: Solar - Free Jekyll Theme
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-permalink: ':title/'
-baseurl: "/Solar" # the subpath of your site, e.g. /blog
-url: "artemsheludko.pw" # the base hostname & protocol for your site, e.g. http://example.com
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
 
-# Social
-facebook: #Add your Facebook
-twitter: #Add your Twitter
-google-plus: #Add your Google+
-github: Hotacool
-weibo: u/6187744553/
-toEmail: mailto:shisosen0@163.com
-
-# Contact form
-email: shisosen0@163.com
-# github project address
-gitAddr: https://github.com/Hotacool/Solar
-
-# Comments
-discus-identifier: # Add your Disqus identifier
-
-# Paginate
+# Site settings
+title: "Hot & Cool"
+email: hotacool@163.com
+description: Hang on to your dreams
+Copyright: Copyright 2017 hotacool
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: #
+github_username:  hotacool
+username: hotacool
 paginate: 5
-paginate_path: /page:num/
+theme-dark: false #Set to true to change to dark website theme
 
+gems: [jekyll-paginate, kramdown]
 # Build settings
 markdown: kramdown
-plugins:
-  - jekyll-feed
-  - jekyll-paginate
-exclude:
-  - Gemfile
-  - Gemfile.lock
-include: [_pages]
