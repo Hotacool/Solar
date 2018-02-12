@@ -10,8 +10,8 @@ title: "Hot & Cool"
 email: hotacool@163.com
 description: Hang on to your dreams
 Copyright: Copyright 2017 hotacool
-baseurl: "/Solar" # the subpath of your site, e.g. /blog https://hotacool.github.io/Hotacool
-url: #"http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: #"/Solar" # the subpath of your site, e.g. /blog https://hotacool.github.io/Hotacool
+url: "http://hotacool.top"#"http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: #
 github_username:  hotacool
 username: hotacool
