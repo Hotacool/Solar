@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sonarqube & ObjectiveC 环境搭建"
-date:   2017-12-25 00:00:00
+date:   2018-05-24 00:00:00
 categories: tech
 author: "hotacool"
 description: 本篇介绍Mac上sonarqube的安装，以及添加开源plugin对objective c支持。
